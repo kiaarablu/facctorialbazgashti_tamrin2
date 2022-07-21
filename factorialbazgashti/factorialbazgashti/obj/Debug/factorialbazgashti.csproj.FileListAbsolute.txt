@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\bin\Debug\factorialbazgashti.exe.config
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\bin\Debug\factorialbazgashti.exe
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\bin\Debug\factorialbazgashti.pdb
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\obj\Debug\factorialbazgashti.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\obj\Debug\factorialbazgashti.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\obj\Debug\factorialbazgashti.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\obj\Debug\factorialbazgashti.exe
+D:\kia prjc\tamrin\factorialbazgashti\factorialbazgashti\obj\Debug\factorialbazgashti.pdb
